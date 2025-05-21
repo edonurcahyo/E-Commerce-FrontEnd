@@ -72,7 +72,7 @@ const Index = () => {
                 </button>
               </div>
               <div className="md:w-1/3 flex justify-center">
-                <img src="/placeholder.svg" alt="Building materials" className="h-40 w-40 object-contain" />
+                <img src="/next project.png" alt="Building materials" className="h-40 w-40 object-contain" />
               </div>
             </div>
           </section>

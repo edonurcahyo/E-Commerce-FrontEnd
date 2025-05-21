@@ -10,7 +10,7 @@ const slides = [
     description: "Get up to 50% off on all building materials",
     buttonText: "Shop Now",
     buttonLink: "/category/1",
-    image: "/placeholder.svg",
+    image: "/cv agung.png",
     bgClass: "from-brand-green/20 to-brand-light",
   },
   {
@@ -19,7 +19,7 @@ const slides = [
     description: "Professional tools for every project",
     buttonText: "Explore Tools",
     buttonLink: "/category/8",
-    image: "/placeholder.svg",
+    image: "/tools.png",
     bgClass: "from-blue-100 to-brand-light",
   },
   {
@@ -28,7 +28,7 @@ const slides = [
     description: "Transform your space with our quality paints",
     buttonText: "View Paints",
     buttonLink: "/category/6",
-    image: "/placeholder.svg",
+    image: "/paint.png",
     bgClass: "from-amber-100 to-brand-light",
   },
 ];
